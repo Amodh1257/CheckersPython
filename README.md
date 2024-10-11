@@ -1,0 +1,2 @@
+# CheckersPython
+Checkers in Python 🕶️
